@@ -6312,7 +6312,7 @@ Standard 7805 5V regulator. IGO (Input Ground Output). Spark Fun Electronics SKU
 <part name="JP4" library="SparkFun-Connectors" deviceset="M03" device="LOCK" value="H3"/>
 <part name="IC2" library="SparkFun-PowerIC" deviceset="V_REG_78XX" device="TO-92_UNTESTED" value="78L33"/>
 <part name="C2" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2" value="10uF"/>
-<part name="J1" library="SparkFun-Connectors" deviceset="POWER_JACK" device="SLT" value="PWR"/>
+<part name="J1" library="SparkFun-Connectors" deviceset="POWER_JACK" device="PTH" value="PWR"/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="C3" library="SparkFun-Passives" deviceset="CAP_POL" device="PTH2" value="1uF"/>
